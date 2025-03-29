@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-A Data Analysis Excel Dashboard is a visually interactive tool used to summarize, analyze, and present data insights in a structured manner
+# Daily Target of an employee Data-Analysis-Dashboard(intractive dashboard using MS Excel)
+# Project objective
